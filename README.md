@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreiUPT
-- 👀 I’m interested in Sofware Development
-- 🌱 I’m currently learning OOP(Java,Python),C,ADA,DSA and in the future I want to be very good in WebDev(HTML,CSS,Java Script).
-- 💞️ I’m looking to collaborate on Sofware Applications
+- 👀 I’m interested in Cloud Computing, Cyber Security, Sofware Development.
+- 🌱 I’m currently improving my Skills in Cisco services and Microsoft Azure.
+- 💞️ I’m eager to collaborate with my team of Cyber Security and Cloud experts.
 - 📫 How to reach me ...
 
 <!---
